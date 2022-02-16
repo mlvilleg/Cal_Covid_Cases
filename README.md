@@ -4,6 +4,7 @@
 
 ## Code and Resources Used 
 **R version** 4.1.2 
+
 **Packages:** ggplot2, plotly, htmlwidgets, dplyr, XML, RCurl, RJSONIO, htmltools, RJSONIO
 
 
