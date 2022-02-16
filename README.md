@@ -1,9 +1,6 @@
 # Cal_Covid_Cases
 * Created an interactive covid cases plot using a New York Times API
 * Used R plotly and Javascript to make the covid case plot interactive
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
 
 ## Code and Resources Used 
 **R version** 4.1.2 
